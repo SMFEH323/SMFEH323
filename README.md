@@ -46,5 +46,5 @@ I'm Sayf! I'm a Software and Web Developer based in New York. I'm passionate abo
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMFEH323&show_icons=true&theme=radical)-->
 
 ### 🔗 Socials
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elhawarysayf?igsh=MXNndHkybnUzcm53YQ%3D%3D&utm_source=qr)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elhawarysayf)
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/HawarySeif)
