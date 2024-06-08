@@ -19,9 +19,6 @@ I'm Sayf! I'm a Software and Web Developer based in New York. I'm passionate abo
 - Phone: +1 (315) 830-7232
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sayf-elhawary-935a10268)
 
-### 😄 Pronouns:
-- He/Him
-
 ### ⚡ Interesting fact:
 - I'm bilingual in English and Arabic
 - I'm a Star Wars Fan
