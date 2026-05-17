@@ -1,25 +1,21 @@
-## Hi there 👋
-
-<!--
-**SMFEH323/SMFEH323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Hi there
 
 I'm Sayf! I'm a Software and Web Developer based in New York. I'm passionate about building software that improves lives and learning new technologies.
 
-### 🌱 I’m currently learning
+### I’m currently learning
 - Cloud Computing
 - GenAI
 
-### 🔭 I’m currently working on
+### I’m currently working on
 - Azure and AWS cloud certifications
 - Azure and AWS related projects
 
-### 📫 How to reach me:
+### How to reach me:
 - Email: [elhawaryseif@gmail.com](mailto:elhawaryseif@gmail.com)
 - Phone: +1 (315) 830-7232
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/sayf-elhawary-935a10268)
 
-### ⚡ Interesting fact:
+### Interesting fact:
 - I'm bilingual in English and Arabic
 - I'm a Star Wars Fan
 
@@ -42,9 +38,9 @@ I'm Sayf! I'm a Software and Web Developer based in New York. I'm passionate abo
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Assembly x86-64](https://img.shields.io/badge/-Assembly_x86--64-007ACC?style=flat-square&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/X86_assembly_language)
 
-<!--### 📊 My GitHub Stats
+<!--### My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMFEH323&show_icons=true&theme=radical)-->
 
-### 🔗 Socials
+### Socials
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/elhawarysayf)
 [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/HawarySeif)
