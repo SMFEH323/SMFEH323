@@ -19,7 +19,7 @@ I'm Sayf! I'm a Software and Web Developer based in New York. I'm passionate abo
 - I'm bilingual in English and Arabic
 - I'm a Star Wars Fan
 
-### 🛠 Skills
+### Skills
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
