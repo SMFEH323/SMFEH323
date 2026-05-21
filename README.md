@@ -1,21 +1,21 @@
 ## Hi there
 
-I'm Sayf! I'm a Software and Web Developer based in New York. I'm passionate about building software that improves lives and learning new technologies.
+I'm Sayf, a software developer with interests in cybersecurity, cloud computing, and AI-powered applications. I enjoy building practical software projects that solve real problems and help me grow as an engineer.
 
 ### I’m currently learning
-- Cloud Computing
+- Cybersecurity Engineering
 - GenAI
 
 ### I’m currently working on
-- Azure and AWS cloud certifications
-- Azure and AWS related projects
+- Cloud security projects
+- Secure software development projects
 
 ### How to reach me:
 - Email: [elhawaryseif@gmail.com](mailto:elhawaryseif@gmail.com)
 - Phone: +1 (315) 830-7232
 - [LinkedIn](https://www.linkedin.com/in/sayf-elhawary-935a10268)
 
-### Interesting fact:
+### Fun facts:
 - I'm bilingual in English and Arabic
 - I'm a Star Wars Fan
 
