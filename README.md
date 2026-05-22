@@ -13,7 +13,7 @@ I'm Sayf, a software developer with interests in cybersecurity, cloud computing,
 ### How to reach me:
 - Email: [elhawaryseif@gmail.com](mailto:elhawaryseif@gmail.com)
 - Phone: +1 (315) 830-7232
-- [LinkedIn](https://www.linkedin.com/in/sayf-elhawary-935a10268)
+- [LinkedIn](https://www.linkedin.com/in/sayf-elhawary/)
 
 ### Fun facts:
 - I'm bilingual in English and Arabic
